@@ -1,0 +1,12 @@
+/products       ->Get
+                ->Post
+
+/products/{id}  ->Get
+                ->Patch 
+                ->Post
+
+/orders         ->Get
+                ->Post
+
+/orders/{id}    ->Get
+                ->Delete
